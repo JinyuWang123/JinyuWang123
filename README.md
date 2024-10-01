@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
 - 📫 How to reach me: jinyu_wang@brown.edu
 - 🤔 I’m looking for help with: networking in the field of biostatistics and finding research opportunities.
-- 🚀 I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025.
+- 🚀 **I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025**.
 <!--
 **JinyuWang123/JinyuWang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
