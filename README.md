@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a Biostatistician at Brown University, focusing on the identifiability of time-dependent treatment effects and statistical inference on medical imaging data.
+- 🔭 I’m currently working as a Statistician at Brown University, focusing on the identifiability of time-dependent treatment effects and statistical inference on medical imaging data.
 - 🌱 I’m currently learning advanced biostatistical methods for clinical trial design and machine learning techniques for medical imaging.
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
 - 📫 How to reach me: jinyu_wang@brown.edu
